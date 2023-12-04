@@ -31,4 +31,4 @@ Flights departing from the Chicago O'Hare International Airport in 2022 via Delt
 
 [2]	“Flight delays, cancellations could continue for a decade amid airline workforce shortage - CBS News,” www.cbsnews.com, Jul. 25, 2023. https://www.cbsnews.com/news/the-future-of-flying-more-delays-more-cancellations-more-chaos/ 
 
-[3] Knowles, Jason. “Non-Weather Flight Delays up in Recent Years at Both O’hare, Midway.” ABC7 Chicago, 22 Nov. 2023, abc7chicago.com/flight-delays-airport-ohare-midway/14089059/. 
+[3] Knowles, Jason. “Non-Weather Flight Delays up in Recent Years at Both O’hare, Midway.” ABC7 Chicago, 22 Nov. 2023, abc7chicago.com/flight-delays-airport-ohare-midway/14089059/  
