@@ -8,7 +8,7 @@ This document describes the context and motivation behind the case study, the da
 The rubric describes the deliverable instructions and criteria.
 
 ## Materials
-Two articles and the Data folder are included in the Materials folder. The data is described below. The two articles included are "Delays up at O'Hare Article" and "Airline Employee Shortage Article" which detail the recent delays at the Chicago O'Hare International Airport and how airline employee shortages since the COVID-19 pandemic have contributed to more flight cancellations and delays.
+Two articles and the Data folder are included in the Materials folder. The data is described below. The two articles included are "Delays up at O'Hare Article" and "Airline Employee Shortage Article", which detail the recent delays at the Chicago O'Hare International Airport and how airline employee shortages since the COVID-19 pandemic have contributed to more flight cancellations and delays, respectively.
 
 ## Data
 Flights departing from the Chicago O'Hare International Airport in 2022 via Delta, Southwest, and Spirit, are located in Materials/Data folder in "Delta.csv", "Southwest.csv", and "Spirit.csv", respectively. Below is the data dictionary that applies to all three of these datasets.
